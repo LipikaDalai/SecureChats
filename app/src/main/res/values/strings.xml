@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Secure Chats</string>
+    <string name="message">message</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="haveaccount">Already have an account</string>
+    <string name="username">enter Username</string>
+    <string name="password">Password</string>
+    <string name="email">enter your email</string>
+    <string name="search">Search</string>
+    <string name="search_area">Search area</string>
+    <string name="this_is_a_message">This is a message</string>
+</resources>

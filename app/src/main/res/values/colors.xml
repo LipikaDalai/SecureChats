@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D7CCC8</color>
+    <color name="colorPrimaryDark">#8D6E63</color>
+    <color name="colorAccent">#232845</color>
+    <color name="colorLight">#787878</color>
+    <color name="colorMedium">#5A5353</color>
+    <color name="colorDrawables">#505050</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="brown">#BCAAA4</color>
+    <color name="brown1">#D7CCC8</color>
+    <color name="indigo_300">#C5CAE9</color>
+    <color name="bluegray">#CFD8DC</color>
+    <color name="bluegeay1">#90A4AE</color>
+    <color name="bluegeay200">#B0BEC5</color>
+    <color name="bluegeay300">#CFD8DC</color>
+    <color name="bluegeay400">#90A4AE</color>
+    <color name="bluegeay500">#607D8B</color>
+    <color name="brown2">#5D4037</color>
+    <color name="brown300">#A1887F</color>
+    <color name="black">#212121</color>
+    <color name="darkbrown">#795548</color>
+
+</resources>
